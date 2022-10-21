@@ -1,4 +1,4 @@
-## Objetivo do projeto
+## Objetivo do Projeto
 
 - Criar uma tela de login com array (devido a falta de conheciento momentânea em SQL);
 - Exercitar forEach();
