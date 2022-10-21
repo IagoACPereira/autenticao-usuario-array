@@ -4,7 +4,11 @@
 - Exercitar forEach();
 - Exercitar eventos diretamente no código JavaScript ao invés do HTML.
 
-#### Usuários e senhas (teste)
+### Usuários e senhas (teste)
 
-* administrador: admin@admin.com.br | admin@admin
-* usuários: user@user.com.br | user@user 
+- administrador: admin@admin.com.br | admin@admin
+- usuários: user@user.com.br | user@user 
+
+### URL
+
+- https://courageous-kelpie-ac3362.netlify.app
