@@ -1,0 +1,66 @@
+@media screen and (max-width: 1440px) {
+    body {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-image: linear-gradient(to bottom, rgb(134, 255, 215), rgb(92, 187, 155));
+    }
+
+    #container-auth {
+        border: 1px solid #bbb;
+        width: 270px;
+        border-radius: 20px;
+        display: flex;
+        flex-direction: column;
+        padding: 40px;
+        box-shadow: 5px 15px 15px #00000030;
+        background-image: linear-gradient(to bottom, #fff, #eee);
+    }
+
+    #container-auth h1 {
+        margin-bottom: 20px;
+        border-bottom: 2px solid rgb(134, 255, 215);
+    }
+
+    #container-auth input {
+        height: 20px;
+        border-radius: 5px;
+        border: 1px solid #bbb;
+        margin-bottom: 20px;
+        margin-top: 5px;
+        padding: 5px;
+    }
+
+    #container-auth button {
+        height: 35px;
+        border-radius: 5px;
+        border: 1px solid rgb(50, 99, 82);
+        margin-top: 10px;
+        background-color: rgb(134, 255, 215);
+        color: rgb(50, 99, 82);
+        cursor: pointer;
+    }
+
+    #container-auth button:hover {
+        background-color: rgb(92, 187, 155);
+        color: #fff;
+    }
+
+    #container-auth button:active {
+        border-color: rgb(92, 187, 155);
+    }
+
+    .titulo1 {
+        border: 1px solid #bbb;
+        background-color: #fff;
+        padding: 20px 100px;
+        border-radius: 10px;
+        box-shadow: 5px 15px 15px #00000030;
+        background-image: linear-gradient(to bottom, #fff, #ddd);
+    }
+}
+
+@media screen and (max-width: 375px) {
+    
+}
