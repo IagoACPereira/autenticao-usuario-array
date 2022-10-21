@@ -4,7 +4,7 @@
 - Exercitar forEach();
 - Exercitar eventos diretamente no código JavaScript ao invés do HTML.
 
-### Usuários e senhas (teste)
+### Usuários e Senhas (Teste)
 
 - administrador: admin@admin.com.br | admin@admin
 - usuários: user@user.com.br | user@user 
